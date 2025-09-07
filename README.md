@@ -48,9 +48,8 @@
 
 ### 📫 Me contacter
 
-- 🔗 [Portfolio](https://jeromedev.yt)
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/jeromemarlier)
-- ✉️ jerome.marlier.dev@gmail.com
+- ✉️ jeromemarlier@gmail.com
 
 ---
 
