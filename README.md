@@ -18,15 +18,15 @@
 
 ### 🚀 Projets principaux
 
-- 🧾 [**Projet Canopée**](https://github.com/jmarlier/projet-canopee)  
+- 🧾 [**Projet Canopée**](https://github.com/jmarlier/ProjetCanopee)  
   Application de gestion de devis avec signature électronique, génération de PDF, envoi d’emails automatisé, et facturation intégrée.  
   _Symfony 7, DomPDF, Twig, Gestion multi-offres, Authentification, rôles, etc._
 
-- 🚚 [**Projet Alphadis**](https://github.com/jmarlier/projet-alphadis)  
+- 🚚 [**Projet Alphadis**](https://github.com/jmarlier/ProjetAlphadis)  
   Plateforme de gestion logistique pour transporteurs avec ordres de transport, documents à téléverser, signature numérique et multi-sites.  
   _Symfony 7, Bootstrap, DomPDF, Entités complexes, logique de transport réel._
 
-- 📦 [**Library STL 3D** (en développement)](https://github.com/jmarlier/stl-library)  
+- 📦 [**Library STL 3D** (en développement)](https://github.com/jmarlier/STL-library)  
   Bibliothèque 3D permettant l’upload, l’aperçu WebGL et la gestion de modèles STL.  
   _React + Symfony, STLViewer, WebGL, Notation, Galerie, Auth._
 
