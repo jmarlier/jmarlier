@@ -26,7 +26,7 @@
   Plateforme de gestion logistique pour transporteurs avec ordres de transport, documents à téléverser, signature numérique et multi-sites.  
   _Symfony 7, Bootstrap, DomPDF, Entités complexes, logique de transport réel._
 
-- 📦 [**Library STL 3D** présenté lors du passage du titre DWWM)](https://github.com/jmarlier/STL-library)  
+- 📦 [**Library STL 3D** (présenté lors du passage du titre DWWM)](https://github.com/jmarlier/STL-library)  
   Bibliothèque 3D permettant l’upload, l’aperçu WebGL et la gestion de modèles STL.  
   _React + Symfony, STLViewer, WebGL, Notation, Galerie, Auth._
 
