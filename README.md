@@ -20,7 +20,7 @@
 
 - 🧾 [**Projet Canopée**](https://github.com/jmarlier/ProjetCanopee)  
   Application de gestion de devis avec signature électronique, génération de PDF, envoi d’emails automatisé, et facturation intégrée.  
-  _Symfony 7, DomPDF, Twig, Gestion multi-offres, Authentification, rôles, etc._
+  _Symfony, DomPDF, Twig, Gestion multi-offres, Authentification, rôles, etc._
 
 - 🚚 [**Projet Alphadis**](https://github.com/jmarlier/ProjetAlphadis)  
   Plateforme de gestion logistique pour transporteurs avec ordres de transport, documents à téléverser, signature numérique et multi-sites.  
